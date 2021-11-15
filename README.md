@@ -1,4 +1,4 @@
-<div style = background-image: url("https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif");>
+<div style = "background-image: url("https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif");">
   <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Fatih</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 

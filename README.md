@@ -1,6 +1,4 @@
-<marquee width="60%" direction="up" height="100px">
-This is a sample scrolling text that has scrolls in the upper direction.
-</marquee>
+
  <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Fatih</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 

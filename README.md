@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 </div>
-<h1 align="center">Hi 👋, I'm Fatih</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Fatih</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
 <h3 align="left">Connect with me:</h3>

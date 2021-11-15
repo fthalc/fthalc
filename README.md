@@ -1,7 +1,7 @@
 
 <div align="center" width="50">
 
-
+<img src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif" alt="Welcome!" width="300"/>
 
 </div>
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Fatih</h1>

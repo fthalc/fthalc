@@ -1,3 +1,6 @@
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
  <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Fatih</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>

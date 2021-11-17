@@ -6,7 +6,7 @@
 <h3 align="center">A passionate developer from Turkey.</h3>
 
 <h3 align="left">My Page</h3>
-<a href="https://fthalc.github.io/myHomepage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/arrow.svg" alt="fthalc" height="30" width="40" />
+<a href="https://fthalc.github.io/myHomepage/" target="blank">Website
 </a>
 
 
